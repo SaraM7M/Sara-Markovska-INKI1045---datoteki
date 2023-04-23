@@ -1,0 +1,12 @@
+1. Vo koj programski jazik ucime Napredno Programiranje ?; a)C++; b)HTML; c)Perl
+2. So koj zbor se ovozmozuva struktura ?; a)enum; b)class; c)struct
+3. Datoteka e isto shto i ?; a)direktorium; b)file; c)baza na podatoci
+4. Koj bend ja pee pesnata Best Song Ever ?; a)Green Day; b)One Direction; c)Little Mix
+5. Koj e avtorot na deloto Cicko Gorio ?; a)Onore De Balzak; b)Tolstoj; c)Herman Hese
+6. Koja e oficijalna valuta vo Velika Britanija ?; a)Dolar; b)Evro; c)Funta
+7. Koja e tocnata sintaksa za povikuvanje na sturktura so ime Struktura ?; a)Struktura s; b)Struct s; c)Struktura
+8. Koj e jazikot koj sto se koristi za relacioni bazi na podatoci ?; a)MongoDB; b)SQL; c)Ruby
+9. Koi od slednite pesni se pesni na Selena Gomez ?; a)Who Says; b)Love You Like a Love Song; c)Skyscraper; d)Flowers; e)Kiss You
+10. Koi tehnologii se koristat za frontend programiranje ?; a)Python; b)CSS; c).NET; d)HTML; e)C++
+11. Koi od slednive biblioteki se tocni za vklucuvanje na string vo C++ ?; a)#include <iostream>; b)#include <cmath>; c)#include <ctime>; d)#include <cstring>; e)#include <string.h>
+12. Koi od ovie artisti se clenovi na bendot Jonas Brothers ?; a)Kevin Jonas; b)Bon Jovi; c)Joe Jonas; d)Zayn Malik; e)Enrique Iglesias
